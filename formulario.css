@@ -1,0 +1,18 @@
+body{
+    
+}
+btn:hover{
+    background-color: #47bbff;
+}
+.btn:active{
+    background-color: #2ff62a;
+}
+form{
+    background-color: #fff;
+    color: #999;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 0.8em;
+}

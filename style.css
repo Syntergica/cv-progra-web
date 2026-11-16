@@ -1,0 +1,49 @@
+body{
+    background: #ffffff;
+}
+header{
+    background: #EEFEBC;
+    color: 131900;
+    font-family: Bradley Hand ITC;
+    text-align: center;
+    height: 150px;
+}
+nav{
+    background: #BCFECC;
+    font-family: Brush Script MT;
+    width: 40%;
+}
+section{
+    background: #CCBCFE;
+    font-family: Broadway;
+    height: 250px;
+}
+aside{
+    background: #FEBCED;
+    font-family: chiller;
+    height: 150px;
+}
+footer{
+    background: #EEFEBC;
+    font-family: Elephant;
+    height: 60px;
+}
+
+th,td{
+    padding: 20px;
+}
+
+thead{
+    background-color: #246355;
+    color: #fff;
+
+}
+tr:nth-child(even){
+    background-color: #ddd;
+
+}
+tr:hover td{
+    background-color: #369681;
+    color: #fff;
+
+}

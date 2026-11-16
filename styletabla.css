@@ -1,0 +1,23 @@
+body{
+    background-color: #50be90;
+    font-family: Arial;
+}
+table{
+    background-color: #f0eeee;
+    width: 60%;
+    margin: 150px auto;
+}
+th, td{
+    padding: 20px;
+}
+thead{
+    background-color: rgb(145, 168, 141);
+    color:#ffffff
+}
+tr:nth-child(even){
+    background-color: #c9ddc4;
+}
+tr:hover{
+    background-color: #838d71;
+    color:#fff;
+}
